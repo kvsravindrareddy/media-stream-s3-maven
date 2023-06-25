@@ -1,0 +1,15 @@
+server:
+  port: 9001
+
+#App configs
+app:
+  tokenUrl:
+  contactIdUrl:
+  bucketName:
+  csvFilePath:
+#AWS config
+aws:
+  accessKey:
+  secretKey:
+  region:
+#s3://amazon-connect-callminer-files/CallRecordings/
